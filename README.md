@@ -1,5 +1,5 @@
-# stage-02-treine.me
-# Stage-02-Moveis-Customizados
+# Treine.me
+
 ## Descrição
 Homepage criada a partir do Figma disponibilizado no Stage 02 do programa Rocketseat Explorer
 
