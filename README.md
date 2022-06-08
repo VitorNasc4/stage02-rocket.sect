@@ -1,4 +1,4 @@
-# Treine.me
+# Rocket.sect
 
 ## Descrição
 Homepage criada a partir do Figma disponibilizado no Stage 02 do programa Rocketseat Explorer
